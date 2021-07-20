@@ -3,7 +3,7 @@ package com.team.beatify.services;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.stereotype.Service;
-import com.felipetello.templateExamen.repositories.BaseRepository;
+import com.team.beatify.repositories.BaseRepository;
 
 
 @Service
