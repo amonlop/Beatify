@@ -36,7 +36,7 @@ public abstract class BaseModel {
     //Constructor
 	public BaseModel() {
 	}
-	//Getter & Setter
+	//Getter & Setters
 	public Long getId() {
 		return id;
 	}
